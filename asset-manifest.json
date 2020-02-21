@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.6470dea5.chunk.js",
-    "main.js.map": "/static/js/main.6470dea5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bd56d648.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bd56d648.js.map",
-    "static/js/2.8b43d42b.chunk.js": "/static/js/2.8b43d42b.chunk.js",
-    "static/js/2.8b43d42b.chunk.js.map": "/static/js/2.8b43d42b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0496318ef75d1b9afa4a7a8003174e14.js": "/precache-manifest.0496318ef75d1b9afa4a7a8003174e14.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.8b43d42b.chunk.js.LICENSE.txt": "/static/js/2.8b43d42b.chunk.js.LICENSE.txt"
+    "main.js": "https://josuevalrob.github.io/webdelicias/static/js/main.3901e7c2.chunk.js",
+    "main.js.map": "https://josuevalrob.github.io/webdelicias/static/js/main.3901e7c2.chunk.js.map",
+    "runtime-main.js": "https://josuevalrob.github.io/webdelicias/static/js/runtime-main.31dcdd89.js",
+    "runtime-main.js.map": "https://josuevalrob.github.io/webdelicias/static/js/runtime-main.31dcdd89.js.map",
+    "static/js/2.2666fe60.chunk.js": "https://josuevalrob.github.io/webdelicias/static/js/2.2666fe60.chunk.js",
+    "static/js/2.2666fe60.chunk.js.map": "https://josuevalrob.github.io/webdelicias/static/js/2.2666fe60.chunk.js.map",
+    "index.html": "https://josuevalrob.github.io/webdelicias/index.html",
+    "precache-manifest.8b5370afa8e2e2c7ed5da68692d9cb74.js": "https://josuevalrob.github.io/webdelicias/precache-manifest.8b5370afa8e2e2c7ed5da68692d9cb74.js",
+    "service-worker.js": "https://josuevalrob.github.io/webdelicias/service-worker.js",
+    "static/js/2.2666fe60.chunk.js.LICENSE.txt": "https://josuevalrob.github.io/webdelicias/static/js/2.2666fe60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd56d648.js",
-    "static/js/2.8b43d42b.chunk.js",
-    "static/js/main.6470dea5.chunk.js"
+    "static/js/runtime-main.31dcdd89.js",
+    "static/js/2.2666fe60.chunk.js",
+    "static/js/main.3901e7c2.chunk.js"
   ]
 }
